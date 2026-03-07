@@ -16,7 +16,7 @@
 
 ### ⚡ About Me
 - 🔭 I’m currently working on **My Portofolio Website**
-- 🌱 I’m currently learning **Frameworks, Geographic Information System, & Mobile Development**
+- 🌱 I’m currently learning **Frameworks, Geographic Information System, Website & Mobile Development**
 - 📫 How to reach me: **brianzahranputra@gmail.com**
 
 <div align="center">
