@@ -3,6 +3,8 @@
   
   <h1>Waduup, y'all? I'm Nara 👋</h1>
   <h3>Sixth-semester student at UPN “Veteran” Yogyakarta, Indonesia</h3>
+  
+  <i>"Turning spatial data into visual stories and complex code into simple solutions."</i>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=brianaraa&label=Profile%20views&color=0e75b6&style=flat-square" alt="brianaraa" />
@@ -13,8 +15,14 @@
 ---
 
 ### ⚡ About Me
-- 🌱 I’m currently learning **Frameworks, Geographic Information System, Website & Mobile Development.**
+- 🔭 I’m currently working on **GIS-based Web Applications**
+- 🌱 I’m currently learning **Frameworks, Geographic Information System, & Mobile Development**
+- 💬 Ask me about **UI/UX Design or Spatial Analysis**
 - 📫 How to reach me: **brianzahranputra@gmail.com**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=brianaraa&theme=tokyonight&no-bg=true&margin-w=4" />
+</div>
 
 <div align="center">
   <h3>Connect with me:</h3>
@@ -36,14 +44,22 @@
 
   <p><b>Development & Tools</b></p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,php,mysql,py,git,bootstrap,vscode&theme=dark" />
+
+  <br><br>
+
+  <p><b>GIS & Mapping</b></p>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge&logo=arcgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-1999ED?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Earth-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" />
 </div>
 
 ---
 
 ### 📊 GitHub Statistics
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brianaraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianaraa&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brianaraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianaraa&layout=compact&theme=tokyonight" />
 </div>
 
 <br>
