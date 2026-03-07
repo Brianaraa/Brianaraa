@@ -63,17 +63,10 @@
 
 ###
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brianaraa/Brianaraa/output/github-contribution-grid-snake-dark.svg?v=4">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brianaraa/Brianaraa/output/github-contribution-grid-snake.svg?v=4">
-    <img alt="Pacman Contribution" src="https://raw.githubusercontent.com/Brianaraa/Brianaraa/output/github-contribution-grid-snake.svg?v=4">
-  </picture>
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Brianaraa&show_icons=true&theme=dracula&v=4" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brianaraa&layout=compact&theme=dracula&v=4" height="150" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brianaraa/Brianaraa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brianaraa/Brianaraa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brianaraa/Brianaraa/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
