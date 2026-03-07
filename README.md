@@ -35,7 +35,7 @@
   <br><br>
 
   <p><b>Development & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,php,mysql,py,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,php,mysql,py,git,bootstrap,vscode&theme=dark" />
 </div>
 
 ---
