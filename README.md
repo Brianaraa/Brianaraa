@@ -15,9 +15,8 @@
 ---
 
 ### ⚡ About Me
-- 🔭 I’m currently working on **GIS-based Web Applications**
+- 🔭 I’m currently working on **My Portofolio Website**
 - 🌱 I’m currently learning **Frameworks, Geographic Information System, & Mobile Development**
-- 💬 Ask me about **UI/UX Design or Spatial Analysis**
 - 📫 How to reach me: **brianzahranputra@gmail.com**
 
 <div align="center">
@@ -47,10 +46,8 @@
 
   <br><br>
 
-  <p><b>GIS & Mapping</b></p>
+ <p><b>GIS & Mapping</b></p>
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge&logo=arcgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leaflet-1999ED?style=for-the-badge&logo=leaflet&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Earth-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" />
 </div>
 
