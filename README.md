@@ -55,10 +55,10 @@
 ---
 
 ### 📊 GitHub Statistics
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brianaraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianaraa&layout=compact&theme=tokyonight" />
-</div>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianaraa&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brianaraa&layout=compact&theme=tokyonight&border_radius=10" height="170" />
+</p>
 
 <br>
 
