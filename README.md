@@ -4,8 +4,23 @@
 
 ###
 
-<h1 align="center">Waduup, y'all?</h1>
+<h1 align="center">Waduup, y'all? I'm Nara</h1>
+<h3 align="center">I Am A sixth-semester student at UPN “Veteran” University in Yogyakarta, Indonesia.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brianaraa&label=Profile%20views&color=0e75b6&style=flat" alt="brianaraa" /> </p>
+
+- 🌱 I’m currently learning **Frameworks, Geographic Information System, Website & Mobile Development.**
+
+- 📫 How to reach me **brianzahranputra@gmail.com**
+###
+
+###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/brianzp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brianzp/" height="30" width="40" /></a>
+<a href="https://instagram.com/@narara.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@narara.n" height="30" width="40" /></a>
+<a href="https://dribbble.com/brianara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="brianara" height="30" width="40" /></a>
+</p>
 ###
 
 <br clear="both">
@@ -71,4 +86,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brianaraa/Brianaraa/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianaraa&show_icons=true&locale=en&layout=compact" alt="brianaraa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianaraa&show_icons=true&locale=en" alt="brianaraa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianaraa&" alt="brianaraa" /></p>
 ###
