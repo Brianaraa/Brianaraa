@@ -19,9 +19,6 @@
 - 🌱 I’m currently learning **Frameworks, Geographic Information System, Website & Mobile Development**
 - 📫 How to reach me: **brianzahranputra@gmail.com**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brianaraa&theme=tokyonight&no-bg=true&margin-w=4" />
-</div>
 
 <div align="center">
   <h3>Connect with me:</h3>
@@ -56,8 +53,8 @@
 
 ### 📊 GitHub Statistics
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianaraa&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brianaraa&layout=compact&theme=tokyonight&border_radius=10" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianaraa&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=brianaraa&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 <br>
