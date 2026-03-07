@@ -37,7 +37,8 @@
 
 <div align="center">
   <p><b>Creative & Design</b></p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,blender,canva&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,blender&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo" style="vertical-align: top; margin-left: -4px;" />
   
   <br><br>
 
