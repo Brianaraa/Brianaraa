@@ -52,7 +52,7 @@
 ---
 
 ### 📊 GitHub Statistics
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianaraa&layout=compact&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=brianaraa&layout=compact&theme=tokyonight" height="170" />
 </p>
