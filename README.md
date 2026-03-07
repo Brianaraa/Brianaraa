@@ -52,15 +52,20 @@
 ---
 
 ### 📊 GitHub Statistics
-<p align="center">
+<div align="center">
+   <b>Contributions</b><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianaraa&layout=compact&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=brianaraa&layout=compact&theme=tokyonight" height="170" />
-</p>
+</div>
 
+<br>
+<div align="center">
+  <b>Programming languages</b><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=brianaraa&layout=compact&theme=tokyonight" height="170" />
+  </div>
 <br>
 
 <div align="center">
-  <b>Streak Stats & Activity</b><br><br>
+  <b>Streak Stats & Activity</b><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianaraa&theme=tokyonight" alt="brianaraa" />
 </div>
 
