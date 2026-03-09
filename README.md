@@ -53,12 +53,6 @@
 
 ### 📊 GitHub Statistics
 <div align="center">
-   <b>Contributions</b><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianaraa&layout=compact&theme=tokyonight" height="170" />
-</div>
-
-<br>
-<div align="center">
   <b>Programming languages</b><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=brianaraa&layout=compact&theme=tokyonight" height="170" />
   </div>
