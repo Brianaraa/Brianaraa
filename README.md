@@ -58,10 +58,6 @@
   </div>
 <br>
 
-<div align="center">
-  <b>Streak Stats & Activity</b><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianaraa&theme=tokyonight" alt="brianaraa" />
-</div>
 
 ---
 
