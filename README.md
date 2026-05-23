@@ -40,7 +40,7 @@
   <br><br>
 
   <p><b>Development & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,php,mysql,py,bootstrap,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,php,mysql,py&theme=dark" />
 
   <br><br>
 
@@ -48,16 +48,6 @@
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Earth-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" />
 </div>
-
----
-
-### 📊 GitHub Statistics
-<div align="center">
-  <b>Programming languages</b><br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=brianaraa&layout=compact&theme=tokyonight" height="170" />
-  </div>
-<br>
-
 
 ---
 
