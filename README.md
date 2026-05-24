@@ -40,7 +40,7 @@
   <br><br>
 
   <p><b>Development & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,php,mysql,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,php,mysql,py&theme=dark" />
 
   <br><br>
 
